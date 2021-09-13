@@ -1,3 +1,4 @@
 io/azou/xrp/cli/commands/XRPCommands.class
 io/azou/xrp/cli/FundAccount.class
+io/azou/xrp/cli/commands/Commands.class
 io/azou/xrp/cli/Application.class
